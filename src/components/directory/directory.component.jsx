@@ -9,36 +9,36 @@ class Directory extends React.Component {
            sections: [
                {
                    title:'HATS',
-                   imageUrl:'https://images.unsplash.com/photo-1568123326923-105aaedcee23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
-                   size:'large',
+                   imageUrl:'https://images.unsplash.com/photo-1529958030586-3aae4ca485ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
+                   
                    id:1,
                    linkUrl:'hats'
                },
                {
                    title:'JACKETS',
                    imageUrl:'https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
-                   size:'large',
+                   
                    id:2,
                    linkUrl:''
                },
 
                {
                 title:'SNEAKERS',
-                imageUrl:'https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80',
-                size:'large',
+                imageUrl:'https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
+                
                 id:3,
                 linkUrl:''
                },
               {
                 title:'WOMENS',
-                imageUrl:'https://images.unsplash.com/photo-1470468969717-61d5d54fd036?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
+                imageUrl:'https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
                 size:'large',
                 id:4,
                 linkUrl:''
               },
               {
                 title:'MENS',
-                imageUrl:'https://images.unsplash.com/photo-1599577180675-470e88ebe8dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
+                imageUrl:'https://images.unsplash.com/photo-1601333144314-e7884b3d63eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
                 size:'large',
                 id:5,
                 linkUrl:''
